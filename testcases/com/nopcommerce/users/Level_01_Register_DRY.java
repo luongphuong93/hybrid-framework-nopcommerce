@@ -11,7 +11,6 @@ import org.testng.annotations.Test;
 
 import java.time.Duration;
 import java.util.Random;
-import java.util.concurrent.TimeUnit;
 
 public class Level_01_Register_DRY {
     WebDriver driver;
